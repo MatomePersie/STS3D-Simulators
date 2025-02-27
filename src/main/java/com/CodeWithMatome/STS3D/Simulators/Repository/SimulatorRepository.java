@@ -2,6 +2,6 @@
 // import org.springframework.data.jpa.repository.JpaRepository;
 // import com.CodeWithMatome.STS3D.Simulators.Model.DeBrochen;
 
-// public interface DeBrochenRepository extends JpaRepository<DeBrochen, Long> {
+// public interface SimulatorRepository extends JpaRepository<Simulator, Long> {
 
 // }

@@ -11,13 +11,13 @@
 
 // @ControllerAdvice
 
-// public class DeBrochenNotFoundExceptionAdvice {
+// public class SimualtorNotFoundExceptionAdvice {
 
 //     @ResponseBody
-//     @ExceptionHandler(DeBrochenNotFoundException.class)
+//     @ExceptionHandler(SimualatorNotFoundException.class)
 //     @ResponseStatus(HttpStatus.NOT_FOUND)
 
-//     public Map<String,String> exceptionHandler(ClientNotFoundException exception){
+//     public Map<String,String> exceptionHandler(SimulatorNotFoundException exception){
 //         Map<String,String> errorMap=new HashMap<>();
 //         errorMap.put("errorMessage",exception.getMessage());
 

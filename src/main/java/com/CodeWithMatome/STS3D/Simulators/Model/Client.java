@@ -1,6 +1,4 @@
 package com.CodeWithMatome.STS3D.Simulators.Model;
-
-//import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
